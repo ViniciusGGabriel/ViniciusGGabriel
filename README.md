@@ -1,4 +1,4 @@
-<img src="https://bg-so-1.zippyimage.com/2023/12/23/bd20f588d5b954d34784519a3a33d84f.png">
+<img src="https://bg-so-1.zippyimage.com/2024/02/08/238f98e4b4fbc2c1672133072af24cbb.png">
 <h2>Salve! Sou o Vinícius</h2>
 <p>
   Atualmente estudo desenvolvimento, porem estou no processo de desenvolvimento na parte do front-end, busco aprender react com typescript para criar minhas interfaces e python para gerar o back-end dos meus futuros projetos
