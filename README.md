@@ -1,4 +1,4 @@
-<img src="https://bg-so-1.zippyimage.com/2024/02/08/238f98e4b4fbc2c1672133072af24cbb.png">
+<img src="https://bg-so-1.zippyimage.com/2024/03/09/307f3e451ed06d32f5cfcfda95e25533.png">
 <h2>Salve! Sou o Vinícius</h2>
 <p>
   Sou um estudante entusiasmado de Ciência da Computação, apaixonado por tecnologia e sempre em busca de novos desafios. Tenho experiência em infraestrutura, onde aprendi a lidar com sistemas complexos e a otimizar recursos. Além disso, possuo habilidades em desenvolvimento web, utilizando tecnologias modernas como React/NextJS, NodeJS, Tailwind e TypeScript. Com conhecimento em banco de dados MySQL e análise de dados em Python, estou preparado para enfrentar qualquer projeto que envolva a manipulação e interpretação de grandes conjuntos de dados. Estou constantemente buscando aprimorar minhas habilidades e contribuir para o avanço da tecnologia. Vamos nos conectar e explorar juntos as possibilidades que o mundo digital oferece!
