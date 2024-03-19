@@ -11,7 +11,7 @@
     <h2>Habilidades</h2>
     <img src="https://skillicons.dev/icons?i=js,ts,react,vite,sass,tailwind,bootstrap,git,github&theme=dark&perline=9" />
     <h2>Estudando</h2>
-    <img src="https://skillicons.dev/icons?i=mysql,nodejs,py,docker&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=mysql,nodejs,py,java,docker&theme=dark&perline=9" />
   </a>
 </div>
 
