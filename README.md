@@ -11,12 +11,13 @@
     <h2>Habilidades</h2>
     <img src="https://skillicons.dev/icons?i=js,ts,react,vite,sass,tailwind,bootstrap,git,github&theme=dark&perline=9" />
     <h2>Estudando</h2>
-    <img src="https://skillicons.dev/icons?i=mysql,nodejs,py,java,docker&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,nodejs,py,java,spring,docker&theme=dark&perline=9" />
   </a>
 </div>
 
  
 <div align="center">
   <h2>Sociais</h2>
-  <a href="https://www.linkedin.com/in/vin%C3%ADcius-gabriel-pereira-leit%C3%A3o/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vinícius" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-gabriel-pereira-leit%C3%A3o/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark&perline=9" alt="Vinícius" height="30" width="40" /></a>
+  <a href="https://hub.docker.com/u/viniciusgggabriel" target="blank"><img align="center" src="https://skillicons.dev/icons?i=docker&theme=dark&perline=9" alt="Vinícius" height="30" width="40" /></a>
 </div>
