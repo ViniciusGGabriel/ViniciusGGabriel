@@ -13,7 +13,7 @@
 ![Aprendendo](https://skillicons.dev/icons?i=postgresql,mysql,java,maven,spring,hibernate,postman,docker,linux&theme=dark&perline=9)
 ---
 ### Futuros aprendizados
-![Busco aprender](https://skillicons.dev/icons?i=nodejs,nextjs,threejs,bash,rust&theme=dark&perline=9)
+![Busco aprender](https://skillicons.dev/icons?i=threejs,angular,rust&theme=dark&perline=9)
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusggabrielpl@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-gabriel-pereira-leit%C3%A3o/)
