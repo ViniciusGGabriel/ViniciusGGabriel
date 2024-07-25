@@ -8,7 +8,7 @@
 
  <table>
   <tr>
-    <th style="text-align: center;">Solido</th>
+     <th colspan="12" style="text-align: center;">Solido</th>
   </tr>
   <tr>
     <!-- Java -->
@@ -24,6 +24,9 @@
     <!-- Python -->
     <td style="text-align: center;"><img src="./icon/language/python.svg" style="width: 50px; height: 50px;"/></td>
     <td style="text-align: center;"><img src="./icon/language/libs/pandas.svg" style="width: 50px; height: 50px;"/></td>
+  </tr>
+
+  <tr>
     <!-- Other -->
     <td style="text-align: center;"><img src="./icon/language/sass.svg" style="width: 50px; height: 50px;"/></td>
     <td style="text-align: center;"><img src="./icon/language/sql.svg" style="width: 50px; height: 50px;"/></td>
