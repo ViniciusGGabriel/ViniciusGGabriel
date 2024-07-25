@@ -8,19 +8,25 @@
 
  <table>
   <tr>
-    <th>Aprendendo</th>
-    <th>Solido</th>
-    <th>Aprendizado futuro</th>
+    <th style="text-align: center;">Solido</th>
   </tr>
   <tr>
-    <td><img src="./icon/language/sql.svg"  style="width: 50px; height: 50px;"/>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <!-- Java -->
+    <td style="text-align: center;"><img src="./icon/language/java.svg" style="width: 50px; height: 50px;"/></td>
+    <td style="text-align: center;"><img src="./icon/language/framework/spring-boot.svg" style="width: 50px; height: 50px;"/></td>
+    <td style="text-align: center;"><img src="./icon/util/hibernate.svg" style="width: 50px; height: 50px;"/></td>
+    <td style="text-align: center;"><img src="./icon/util/maven.svg" style="width: 50px; height: 50px;"/></td>
+    <!-- JavaScript -->
+    <td style="text-align: center;"><img src="./icon/language/java-script.svg" style="width: 50px; height: 50px;"/></td>
+    <td style="text-align: center;"><img src="./icon/language/typescript.svg" style="width: 50px; height: 50px;"/></td>
+    <td style="text-align: center;"><img src="./icon/language/libs/react.svg" style="width: 50px; height: 50px;"/></td>
+    <td style="text-align: center;"><img src="./icon/util/vite.svg" style="width: 50px; height: 50px;"/></td>
+    <!-- Python -->
+    <td style="text-align: center;"><img src="./icon/language/python.svg" style="width: 50px; height: 50px;"/></td>
+    <td style="text-align: center;"><img src="./icon/language/libs/pandas.svg" style="width: 50px; height: 50px;"/></td>
+    <!-- Other -->
+    <td style="text-align: center;"><img src="./icon/language/sass.svg" style="width: 50px; height: 50px;"/></td>
+    <td style="text-align: center;"><img src="./icon/language/sql.svg" style="width: 50px; height: 50px;"/></td>
   </tr>
 </table>
 
