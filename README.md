@@ -25,11 +25,32 @@
     <td style="text-align: center;"><img src="./icon/language/python.svg" style="width: 50px; height: 50px;"/></td>
     <td style="text-align: center;"><img src="./icon/language/libs/pandas.svg" style="width: 50px; height: 50px;"/></td>
   </tr>
+  <tr>
+    <!-- HTML -->
+    <td style="text-align: center;"><img src="./icon/language/html5.svg" style="width: 50px; height: 50px;"/></td>
+    <!-- CSS -->
+    <td style="text-align: center;"><img src="./icon/language/ccs3.svg" style="width: 50px; height: 50px;"/></td>
+    <td style="text-align: center;"><img src="./icon/language/sass.svg" style="width: 50px; height: 50px;"/></td>
+    <td style="text-align: center;"><img src="./icon/language/framework/tailwind.svg" style="width: 50px; height: 50px;"/></td>
+    <td style="text-align: center;"><img src="./icon/language/framework/bootstrap.svg" style="width: 50px; height: 50px;"/></td>
+    <!-- Other -->
+    <td style="text-align: center;"><img src="./icon/language/sql.svg" style="width: 50px; height: 50px;"/></td>
+    <td style="text-align: center;"><img src="./icon/util/docker.svg" style="width: 50px; height: 50px;"/></td>
+    <td style="text-align: center;"><img src="./icon/util/git.svg" style="width: 50px; height: 50px;"/></td>
+    <td style="text-align: center;"><img src="./icon/util/github.svg" style="width: 50px; height: 50px;"/></td>
+    <td style="text-align: center;"><img src="./icon/util/postman.svg" style="width: 50px; height: 50px;"/></td>
+  </tr>
 
   <tr>
-    <!-- Other -->
-    <td style="text-align: center;"><img src="./icon/language/sass.svg" style="width: 50px; height: 50px;"/></td>
-    <td style="text-align: center;"><img src="./icon/language/sql.svg" style="width: 50px; height: 50px;"/></td>
+     <th colspan="12" style="text-align: center;">Aprendendo</th>
+  </tr>
+  <tr>
+    <!-- Kotlin -->
+    <td style="text-align: center;"><img src="./icon/language/kotlin.svg" style="width: 50px; height: 50px;"/></td>
+    <!-- JavaScript -->
+    <td style="text-align: center;"><img src="./icon/language/framework/nextjs.svg" style="width: 50px; height: 50px;"/></td>
+    <!-- Linux -->
+    <td style="text-align: center;"><img src="./icon/operational-system/linux.svg" style="width: 50px; height: 50px;"/></td>
   </tr>
 </table>
 
