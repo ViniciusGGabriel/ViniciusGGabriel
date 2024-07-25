@@ -47,8 +47,6 @@
   <tr>
     <!-- Kotlin -->
     <td style="text-align: center;"><img src="./icon/language/kotlin.svg" style="width: 50px; height: 50px;"/></td>
-    <!-- JavaScript -->
-    <td style="text-align: center;"><img src="./icon/language/framework/nextjs.svg" style="width: 50px; height: 50px;"/></td>
     <!-- Linux -->
     <td style="text-align: center;"><img src="./icon/operational-system/linux.svg" style="width: 50px; height: 50px;"/></td>
   </tr>
