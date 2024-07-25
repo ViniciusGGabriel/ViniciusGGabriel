@@ -6,14 +6,23 @@
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Viniciusggabriel&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
 </table>
 
-### Conhecimento solido
-![Skills](https://skillicons.dev/icons?i=js,ts,react,vite,sass,tailwind,bootstrap,git,github&theme=dark&perline=9)
----
-### Aprendendo
-![Aprendendo](https://skillicons.dev/icons?i=postgresql,mysql,java,maven,spring,hibernate,postman,docker,linux&theme=dark&perline=9)
----
-### Futuros aprendizados
-![Busco aprender](https://skillicons.dev/icons?i=threejs,angular,rust&theme=dark&perline=9)
+ <table>
+  <tr>
+    <th>Aprendendo</th>
+    <th>Solido</th>
+    <th>Aprendizado futuro</th>
+  </tr>
+  <tr>
+    <td><img src="./icon/language/sql.svg"  style="width: 50px; height: 50px;"/>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusggabrielpl@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-gabriel-pereira-leit%C3%A3o/)
