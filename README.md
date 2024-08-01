@@ -21,15 +21,12 @@
     <td style="text-align: center;"><img src="./icon/language/typescript.svg" style="width: 50px; height: 50px;"/></td>
     <td style="text-align: center;"><img src="./icon/language/libs/react.svg" style="width: 50px; height: 50px;"/></td>
     <td style="text-align: center;"><img src="./icon/util/vite.svg" style="width: 50px; height: 50px;"/></td>
-    <!-- Python -->
-    <td style="text-align: center;"><img src="./icon/language/python.svg" style="width: 50px; height: 50px;"/></td>
-    <td style="text-align: center;"><img src="./icon/language/libs/pandas.svg" style="width: 50px; height: 50px;"/></td>
-  </tr>
-  <tr>
     <!-- HTML -->
     <td style="text-align: center;"><img src="./icon/language/html5.svg" style="width: 50px; height: 50px;"/></td>
     <!-- CSS -->
     <td style="text-align: center;"><img src="./icon/language/ccs3.svg" style="width: 50px; height: 50px;"/></td>
+  </tr>
+  <tr>
     <td style="text-align: center;"><img src="./icon/language/sass.svg" style="width: 50px; height: 50px;"/></td>
     <td style="text-align: center;"><img src="./icon/language/framework/tailwind.svg" style="width: 50px; height: 50px;"/></td>
     <td style="text-align: center;"><img src="./icon/language/framework/bootstrap.svg" style="width: 50px; height: 50px;"/></td>
