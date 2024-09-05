@@ -8,27 +8,22 @@
 
  <table>
   <tr>
-     <th colspan="12" style="text-align: center;">Solido</th>
+     <th colspan="12" style="text-align: center;">Conhecimento Solido</th>
   </tr>
   <tr>
-    <!-- Java -->
-    <td style="text-align: center;"><img src="./icon/language/java.svg" style="width: 50px; height: 50px;"/></td>
-    <td style="text-align: center;"><img src="./icon/language/framework/spring-boot.svg" style="width: 50px; height: 50px;"/></td>
-    <td style="text-align: center;"><img src="./icon/util/hibernate.svg" style="width: 50px; height: 50px;"/></td>
-    <td style="text-align: center;"><img src="./icon/util/maven.svg" style="width: 50px; height: 50px;"/></td>
+    <!-- HTML -->
+    <td style="text-align: center;"><img src="./icon/language/html5.svg" style="width: 50px; height: 50px;"/></td>
+    <!-- CSS -->
+    <td style="text-align: center;"><img src="./icon/language/ccs3.svg" style="width: 50px; height: 50px;"/></td>
     <!-- JavaScript -->
     <td style="text-align: center;"><img src="./icon/language/java-script.svg" style="width: 50px; height: 50px;"/></td>
     <td style="text-align: center;"><img src="./icon/language/typescript.svg" style="width: 50px; height: 50px;"/></td>
     <td style="text-align: center;"><img src="./icon/language/libs/react.svg" style="width: 50px; height: 50px;"/></td>
     <td style="text-align: center;"><img src="./icon/util/vite.svg" style="width: 50px; height: 50px;"/></td>
-    <!-- HTML -->
-    <td style="text-align: center;"><img src="./icon/language/html5.svg" style="width: 50px; height: 50px;"/></td>
-    <!-- CSS -->
-    <td style="text-align: center;"><img src="./icon/language/ccs3.svg" style="width: 50px; height: 50px;"/></td>
-  </tr>
-  <tr>
     <td style="text-align: center;"><img src="./icon/language/sass.svg" style="width: 50px; height: 50px;"/></td>
     <td style="text-align: center;"><img src="./icon/language/framework/tailwind.svg" style="width: 50px; height: 50px;"/></td>
+  </tr>
+  <tr>
     <td style="text-align: center;"><img src="./icon/language/framework/bootstrap.svg" style="width: 50px; height: 50px;"/></td>
     <!-- Other -->
     <td style="text-align: center;"><img src="./icon/language/sql.svg" style="width: 50px; height: 50px;"/></td>
@@ -42,6 +37,11 @@
      <th colspan="12" style="text-align: center;">Aprendendo</th>
   </tr>
   <tr>
+    <!-- Java -->
+    <td style="text-align: center;"><img src="./icon/language/java.svg" style="width: 50px; height: 50px;"/></td>
+    <td style="text-align: center;"><img src="./icon/language/framework/spring-boot.svg" style="width: 50px; height: 50px;"/></td>
+    <td style="text-align: center;"><img src="./icon/util/hibernate.svg" style="width: 50px; height: 50px;"/></td>
+    <td style="text-align: center;"><img src="./icon/util/maven.svg" style="width: 50px; height: 50px;"/></td>
     <!-- Kotlin -->
     <td style="text-align: center;"><img src="./icon/language/kotlin.svg" style="width: 50px; height: 50px;"/></td>
     <!-- Linux -->
@@ -49,7 +49,7 @@
   </tr>
   
   <tr>
-     <th colspan="12" style="text-align: center;">Busco aprender</th>
+     <th colspan="12" style="text-align: center;">Busco aprender futuramente</th>
   </tr>
   <tr> 
     <!-- Rust -->
