@@ -28,7 +28,6 @@
     <!-- Other -->
     <td style="text-align: center;"><img src="./icon/language/sql.svg" style="width: 50px; height: 50px;"/></td>
     <td style="text-align: center;"><img src="./icon/infra/docker.svg" style="width: 50px; height: 50px;"/></td>
-    <td style="text-align: center;"><img src="./icon/infra/vagrant.svg" style="width: 50px; height: 50px;"/></td>
     <td style="text-align: center;"><img src="./icon/util/git.svg" style="width: 50px; height: 50px;"/></td>
     <td style="text-align: center;"><img src="./icon/util/github.svg" style="width: 50px; height: 50px;"/></td>
     <td style="text-align: center;"><img src="./icon/util/postman.svg" style="width: 50px; height: 50px;"/></td>
@@ -56,6 +55,8 @@
     <td style="text-align: center;"><img src="./icon/language/rust.svg" style="width: 50px; height: 50px;"/></td>
     <!-- Raspberry -->
     <td style="text-align: center;"><img src="./icon/infra/raspberry.svg" style="width: 50px; height: 50px;"/></td>
+    <!-- Vagrant -->
+    <td style="text-align: center;"><img src="./icon/infra/vagrant.svg" style="width: 50px; height: 50px;"/></td>
   </tr>
 </table>
 
